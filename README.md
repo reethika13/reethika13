@@ -11,7 +11,7 @@ Email Me 👉 ✉️ **gudapatireethikaprapurna@gmail.com**
 - 💬 **Ask me about:** Python, Machine Learning basics, NLP, Git & GitHub
 - 📫 **How to reach me:** Connect with me on LinkedIn
 - 😄 **Pronouns:** She/Her
-- ⚡ **Fun fact:**
+- ⚡ **Fun fact:**  I enjoy turning real-world problems into tech solutions
 
 
 ## 🏆 GitHub Trophies
